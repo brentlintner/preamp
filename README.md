@@ -8,11 +8,11 @@ https://github.com/googlesamples/android-UniversalMusicPlayer
 
 ## Feature 1
 
-* On Artist Page have dupe albums view that shows "Missed Albums" that opens album in Spotify App
+* On Artist Page have dupe albums view that shows "Missing Albums" that opens album in Spotify App
 
 ## Feature 2
 
-* On Artist Page have dupe albums view that shows "Recommended Artists" that opens in Spotify App
+* On Artist Page have dupe albums view that shows "Related Artists" that opens in Spotify App
 
 ## Feature 3
 

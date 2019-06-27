@@ -5,6 +5,15 @@ Fork:
 https://github.com/naman14/TimberX
 https://github.com/googlesamples/android-UniversalMusicPlayer
 
-Make Media Player, add view for "New Albums" and "Reccomended Artists" that opens up in Spotify App
 
-Ideally if arch supports it, have add to music that is tiny db of artists etc that gets merged into main library (do I really want this? let Plex stew, but it's nice to have music I don't really want to necessarily buy :-/)
+## Feature 1
+
+* On Artist Page have dupe albums view that shows "Missed Albums" that opens album in Spotify App
+
+## Feature 2
+
+* On Artist Page have dupe albums view that shows "Recommended Artists" that opens in Spotify App
+
+## Feature 3
+
+* Possibly have a similar Add To Library feature for Spotify content (big feature, and if I really want to dupe this UX or go back to DAP UX while Plex gets its shit together)
